@@ -6,6 +6,8 @@ The data files are obtained from two main sources NASA (National Aeronautics and
 ) and HIFLD (Homeland Infrastructure Foundation-Level Data)
 
 NASA : [GPM (Global Precipitation Measurement) data](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_06/summary?keywords=GPM%20IMERG%20final)  
+[PPS registration and GPM data](https://gpm.nasa.gov/data/directory/imerg-final-run-pps-research-gis) 
+
 HIFLD : [US_Hospitals_data](https://hifld-geoplatform.opendata.arcgis.com/datasets/hospitals?geometry=107.413%2C-16.829%2C-138.329%2C72.120) 
 [US_Urgent_Care_Center_data](https://hifld-geoplatform.opendata.arcgis.com/datasets/urgent-care-facilities)
 [US_Pharmacy_and_Dialysis_Center_data](https://hifld-geoplatform.opendata.arcgis.com/datasets/pharmacies)
